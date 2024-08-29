@@ -33,13 +33,11 @@ ul{
     list-style-type: none;
     display: flex;
     gap: 30px;
-    padding-left: 823px;
+    padding-left: 800px;
 }
 
-ul li:hover{
-    background-color: gray;
-    border-radius: 10px;
-    border-top: none;
+ul li a:hover{
+    color: rgb(128, 128, 128);
 }
 
 ul li a{
